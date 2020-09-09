@@ -49,15 +49,14 @@ Before you begin working on this project, please do the following:
 
 ## Submission
 
-Presentation slides must be submitted by 10AM ET on **Friday, Sept. 25**. 
-Your technical report must be submitted in your submission repository by 9PM ET on **Friday, Sept. 25**.
-The Kaggle competition will close by 9PM ET **Friday, Sept. 25**.
+- Presentation slides must be submitted by 10AM ET on **Friday, Sept. 25**. 
+- Your technical report must be submitted in your submission repository by 9PM ET on **Friday, Sept. 25**.
+- The Kaggle competition will close by 9PM ET **Friday, Sept. 25**.
 
 Your technical report must include:
 
 - A README.md (that isn't this file)
 - Jupyter notebook(s) with your analysis and models (renamed to describe your project)
-- At least one successful prediction submission on [DSI-US-11 Regression Challenge](https://www.kaggle.com/c/dsi-us-11-project-2-regression-challenge) --  you should see your name in the "[Leaderboard](https://www.kaggle.com/c/dsi-us-11-project-2-regression-challenge/leaderboard)" tab.
 - Data files
 - Presentation slides
 - Any other necessary files (images, etc.)
