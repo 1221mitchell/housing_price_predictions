@@ -26,7 +26,7 @@ The Ames Housing Dataset is contains over 70 columns of different features relat
 Before you begin working on this project, please do the following:
 
 1. Sign up for an account on [Kaggle](https://www.kaggle.com/)
-2. **IMPORTANT**: Click this link ([Regression Challenge Sign Up]()) to **join** the competition (otherwise you will not be able to make submissions!)
+2. **IMPORTANT**: Click this link UPDATE! [Regression Challenge Sign Up]() to **join** the competition (otherwise you will not be able to make submissions!)
 3. Review the material on the Kaggle challenge site.
 4. Review the [data description](http://jse.amstat.org/v19n3/decock/DataDocumentation.txt).
 
