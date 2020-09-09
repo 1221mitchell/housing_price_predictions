@@ -11,6 +11,9 @@ You are tasked with creating a machine learning model based on the Ames Housing 
 
 The Ames Housing Dataset is contains over 70 columns of different features relating to houses.
 
+---
+## Deliverables 
+
 - We are hosting a competition on Kaggle to give you the opportunity to practice your modeling skills. You must upload at least one of your model's predictions to the competition.
 - You will submit a technical report and a presentation in your submission Repo. 
 - You will present your findings to your classmates and instructors.
