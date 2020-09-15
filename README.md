@@ -4,7 +4,7 @@ Welcome to Project 2! Let's model!
 
 **Primary Learning Objectives:**
 1. Creating and iteratively refining a regression model.
-2. Using [Kaggle](https://www.kaggle.com/) to practice the modeling process.
+2. Using [Kaggle](https://www.kaggle.com/t/ff32f6689d5b45aeb23d1441122b7761) to practice the modeling process.
 3. Providing business insights through reporting and presentation.
 
 You are tasked with creating a machine learning model based on the Ames Housing Dataset. This model will predict the price of a house at sale.
