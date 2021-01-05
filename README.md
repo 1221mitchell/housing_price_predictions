@@ -26,7 +26,7 @@ The Ames Housing Dataset is contains over 70 columns of different features relat
 Before you begin working on this project, please do the following:
 
 1. Sign up for an account on [Kaggle](https://www.kaggle.com/)
-2. **IMPORTANT**: Click here: [Regression Challenge Sign Up](https://www.kaggle.com/t/bbb6b0d99517498e98bc9d455eff6f9e) to **join** the competition (otherwise you will not be able to make submissions!)
+2. **IMPORTANT**: Click here: [Regression Challenge Sign Up](https://www.kaggle.com/t/0e2a90842a5b4d0e92e898996f426139) to **join** the competition (otherwise you will not be able to make submissions!)
 3. Review the material on the Kaggle challenge site.
 4. Review the [data description](http://jse.amstat.org/v19n3/decock/DataDocumentation.txt).
 
@@ -49,9 +49,9 @@ Before you begin working on this project, please do the following:
 
 ## Submission
 
-- Presentation will be delivered starting at 0900 on **Monday 14 December**. 
-- Your technical report must be submitted in your submission repository by 23:59 on **Monday 14 December**.
-- The Kaggle competition will close by midnight **Monday 14 December**.
+- Presentations will start at 9:00a on **Friday January 15th**. 
+- Your technical report must be submitted in your submission repository by 11:59p PST on **Friday January 15th**.
+- The Kaggle competition will close by midnight **Friday January 15**.
 
 Your technical report must include:
 
@@ -66,7 +66,7 @@ Your technical report must include:
 
 ## Presentation Structure
 
-- **Must be within time limit established by local instructor.**
+- These presentations are expected to be 7-9min long
 - Use Google Slides or some other presentation system (Keynote, Powerpoint, etc).
 - Consider your audience. 
 - Start with the **problem** you are solving.
