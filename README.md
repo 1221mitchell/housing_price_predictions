@@ -51,7 +51,7 @@ Before you begin working on this project, please do the following:
 
 ## Submission
 
-- Presentations will start at 9:00a on **Friday January 15th**. 
+- Presentations will start at 9:00a PST on **Friday January 15th**. 
 - Your technical report must be submitted in your submission repository by 11:59p PST on **Friday January 15th**.
 - The Kaggle competition will close by midnight **Friday January 15**.
 
