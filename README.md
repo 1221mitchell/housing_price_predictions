@@ -1,6 +1,8 @@
 # Project 2 - Ames Housing Data and Kaggle Challenge
 
-Welcome to Project 2! Let's model!
+### Welcome to Project 2! Let's model!
+
+<img src="https://media.giphy.com/media/l3nW69ahAX7F6Pcsw/giphy.gif" style="float: center; margin: 10px; height: 100px">
 
 **Primary Learning Objectives:**
 1. Creating and iteratively refining a regression model.
